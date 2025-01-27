@@ -1,4 +1,4 @@
 const Page = () => {
-    return <>Profile</>
+    return <>Provider</>
 }
 export default Page;
